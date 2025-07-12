@@ -1,0 +1,12 @@
+# No external Python packages required for basic LaTeX rendering
+# The script uses only standard library modules:
+# - subprocess
+# - os
+# - sys
+# - shutil
+# - pathlib
+
+# However, you need a LaTeX distribution installed on your system:
+# - MiKTeX (Windows): https://miktex.org/
+# - TeX Live (Linux/Mac): https://www.tug.org/texlive/
+# - Or use online services like Overleaf: https://www.overleaf.com/ 
